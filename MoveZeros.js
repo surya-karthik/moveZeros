@@ -1,4 +1,4 @@
-function moveZeros(nums) {
+function moveZeroes(nums) {
 
     let insertPos = 0;
 
